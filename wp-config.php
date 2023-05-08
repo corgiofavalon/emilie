@@ -29,7 +29,7 @@ define( 'DB_USER', 'obispo' );
 define( 'DB_PASSWORD', 'tubbynbibbles' );
 
 /** Database hostname */
-define( 'DB_HOST', 'https://corgiofavalon.github.io/emilie/' );
+define( 'DB_HOST', 'corgiofavalon.github.io' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
